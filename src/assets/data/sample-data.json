@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Paper lunch box",
+    "type": "Paper",
+    "image": "https://sc04.alicdn.com/kf/H030f0cabec17422db78231c190428be2R.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Broken bottle",
+    "type": "Glass",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwa8aU0Ta1k4oHBMJCfsCDexLp91m8It4H2g&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "type": "Organic",
+    "image": "https://media.vov.vn/uploaded/thuyanh/2014_04_28/banana-peel.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Toothpaste",
+    "type": "Plastic",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1KgMAG0_pIyMcj_hBm7AcC_X7cOIbdSkNQ&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "Scissors",
+    "type": "Metals",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3th7IFF-PSUk6x4iGSQJBn-nu_IcyA1LpA&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "Gift wrapper",
+    "type": "Paper",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCw7lgU4P-NPrMVgue88TxSoPO6IhkxmTfVA&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "name": "Broken mirror",
+    "type": "Glass",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxWmrbCgRoUPhY5WiImkn8mbi-MIe0rr2QQ&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "name": "Eggshell",
+    "type": "Organic",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-GIB-xY5H0CtVz66DwGRYkqsB6LDZ1jaXQ&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "name": "Plastic spoon",
+    "type": "Plastic",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1KgMAG0_pIyMcj_hBm7AcC_X7cOIbdSkNQ&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "name": "Can",
+    "type": "Metals",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNnSmjK_xtvdwvlYSyIn2UiMsLigkBFlg0Q&usqp=CAU"
+  }
+]
