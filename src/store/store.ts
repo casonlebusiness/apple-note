@@ -8,12 +8,7 @@ import binSettingReducer from './slices/binSettingSlice';
 import { appSlice } from 'store/slices/appSlice';
 
 const reducers = {
-  recycleFlow: recycleFlowReducer,
   app: appSlice.reducer,
-  binSetting: persistReducer({
-    key: 'binSetting',
-    storage,
-  }, binSettingReducer)
 }
 
 export const store = configureStore({
