@@ -1,10 +1,6 @@
 import { Action, configureStore, ThunkAction } from '@reduxjs/toolkit';
-import { combineReducers } from 'redux';
-import storage from 'redux-persist/lib/storage';
 import { persistReducer, persistStore } from 'redux-persist';
 import thunk from 'redux-thunk';
-import recycleFlowReducer from './slices/recycleFlowSlice';
-import binSettingReducer from './slices/binSettingSlice';
 import { appSlice } from 'store/slices/appSlice';
 
 const reducers = {
