@@ -14,7 +14,8 @@
     "eslint:fix": "eslint ./src --fix",
     "codeStyle:fix": "npm run prettier:fix && npm run eslint:fix",
     "clear-all": "rimraf ./node_modules ./.next",
-    "test": "jest --watch"
+    "test-watch": "jest --watch",
+    "test": "jest"
   },
   "eslintConfig": {
     "extends": [
