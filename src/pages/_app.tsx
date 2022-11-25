@@ -67,7 +67,7 @@ export default function App({ Component, pageProps }): JSX.Element {
 
   return (
     <Provider store={store}>
-      <PersistGate loading={null} persistor={persistor}>
+      {/* <PersistGate loading={null} persistor={persistor}> */}
         <React.Fragment>
           <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -77,7 +77,7 @@ export default function App({ Component, pageProps }): JSX.Element {
             <Component {...pageProps} />
           </Page>
         </React.Fragment>
-      </PersistGate>
+      {/* </PersistGate> */}
     </Provider>
   );
 }
